@@ -126,7 +126,7 @@ h3 {
     align-items: center;
 }
 
-@media only screen and (max-width: 991px) {
+@media only screen and (max-width: 992px) {
     body {
         font-size: 2vw;
     }
@@ -169,7 +169,7 @@ h3 {
     }
 }
 
-@media only screen and (max-width: 478px) {
+@media only screen and (max-width: 576px) {
     body {
         font-size: 4.5vw;
     }
@@ -247,7 +247,7 @@ h3 {
     color: white;
 }
 
-@media only screen and (max-width: 991px) {
+@media only screen and (max-width: 992px) {
     .logo-image {
         width: 4.5vw;
         height: 4.5vw;
@@ -263,7 +263,7 @@ h3 {
     }
 }
 
-@media only screen and (max-width: 478px) {
+@media only screen and (max-width: 576px) {
     .logo-image {
         width: 6.5vw;
         height: 6.5vw;
@@ -330,7 +330,7 @@ section span {
     width: 29.17vw;
 }
 
-@media only screen and (max-width: 991px) {
+@media only screen and (max-width: 992px) {
     .hero {
         top: 9.3vw;
         margin-bottom: 9.3vw;
@@ -364,7 +364,7 @@ section span {
     }
 }
 
-@media only screen and (max-width: 478px) {
+@media only screen and (max-width: 576px) {
     .hero {
         top: 20.1vw;
         margin-bottom: 20.1vw;
@@ -429,7 +429,7 @@ section span {
     width: 38.5vw;
 }
 
-@media only screen and (max-width: 991px) {
+@media only screen and (max-width: 992px) {
     .mission-image-holder {
         width: 42%;
     }
@@ -446,7 +446,7 @@ section span {
     } 
 }
 
-@media only screen and (max-width: 478px) {
+@media only screen and (max-width: 576px) {
 
     .reverse-on-mobile {
         flex-direction: column-reverse;
@@ -524,7 +524,7 @@ h2 span {
     margin-bottom: 1vw;
 }
 
-@media only screen and (max-width: 991px) {
+@media only screen and (max-width: 992px) {
     .pricing-intro {
         padding: 0 6vw;
     }
@@ -553,7 +553,7 @@ h2 span {
     }
 }
 
-@media only screen and (max-width: 478px) {
+@media only screen and (max-width: 576px) {
     h2 span {
         font-size: 9vw;
     }
@@ -682,7 +682,7 @@ h2 span {
     box-shadow: 0 0 1.5vw 0.05vw black;
 }
 
-@media only screen and (max-width: 991px) {
+@media only screen and (max-width: 992px) {
     .models-grid {
         grid-template: repeat(5, 28.4vw) / repeat(3, 1fr);
         gap: 1.5vw;
@@ -741,7 +741,7 @@ h2 span {
     }
 }
 
-@media only screen and (max-width: 478px) {
+@media only screen and (max-width: 576px) {
     .models {
         padding-top: 16vw;
     padding-bottom: 16vw;
@@ -841,7 +841,7 @@ h2 span {
     margin-bottom: 1.2vw;
 }
 
-@media only screen and (max-width: 991px) {
+@media only screen and (max-width: 992px) {
     .team h2 {
         font-size: 9.5vw;
     }
@@ -877,7 +877,7 @@ h2 span {
     }
 }
 
-@media only screen and (max-width: 478px) {
+@media only screen and (max-width: 576px) {
     .team h2 {
         font-size: 12vw;
     }
@@ -980,7 +980,7 @@ input {
     padding: 1vw 2.1vw;
 }
 
-@media only screen and (max-width: 991px) {
+@media only screen and (max-width: 992px) {
     .cta-container {
         border-radius: 2.1vw;
         padding: 5vw;
@@ -1014,7 +1014,7 @@ input {
     }
 }
 
-@media only screen and (max-width: 478px) {
+@media only screen and (max-width: 576px) {
     .cta-container {
         border-radius: 4.7vw;
         padding: 10vw 7vw;
@@ -1073,7 +1073,7 @@ footer p {
     color: blue;
 }
 
-@media only screen and (max-width: 991px) {
+@media only screen and (max-width: 992px) {
     footer{
         margin-top: 3vw;
     }
@@ -1083,7 +1083,7 @@ footer p {
     }
 }
 
-@media only screen and (max-width: 478px) {
+@media only screen and (max-width: 576px) {
     footer{
         margin-top: 0vw;
     }
